@@ -17,10 +17,10 @@ UE4.sln
 UE4.suo
 UE4.*.suo
 
-AnuksArcPrototype/Binaries/
-AnuksArcPrototype/DerivedDataCache/
-AnuksArcPrototype/Intermediate/
-AnuksArcPrototype/Saved/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
 
 .idea
 .vs
